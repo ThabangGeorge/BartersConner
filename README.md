@@ -1,2 +1,0 @@
-# BartersConner
-Textbook Bartering exchange
